@@ -24,6 +24,8 @@ public class DragandDrop {
 		
 		Actions act = new Actions(driver);
 		act.dragAndDrop(src, target).perform();
+		
+		akash morwadkar
 
 }
 }
