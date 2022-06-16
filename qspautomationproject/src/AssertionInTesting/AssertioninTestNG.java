@@ -15,7 +15,7 @@ public class AssertioninTestNG {
 	  Reporter.log("verify the login page title",true);
 	  SoftAssert softAssert = new SoftAssert();
 	  softAssert.assertEquals(false, true);
-	  
+	  //akash Morawadkar
 	  
 	  Reporter.log("perform login",true);
 	  Assert.assertEquals(true, true);
